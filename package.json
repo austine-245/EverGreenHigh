@@ -1,0 +1,19 @@
+{
+  "name": "evergreenhigh",
+  "version": "1.0.0",
+  "description": "School Information System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austine-245/EverGreenHigh.git"
+  },
+  "author": "Augustine Okoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austine-245/EverGreenHigh/issues"
+  },
+  "homepage": "https://github.com/austine-245/EverGreenHigh#readme"
+}
