@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/austine-245/EverGreenHigh/issues"
   },
-  "homepage": "https://github.com/austine-245/EverGreenHigh#readme"
+  "homepage": "https://github.com/austine-245/EverGreenHigh#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
 }
